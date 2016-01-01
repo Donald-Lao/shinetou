@@ -14,20 +14,20 @@ excerpt_separator: "[-----]"
 
 # mode: dev
 mode: product
-url: https://unifreak.github.io/
+url: https://hejeke.github.io/shinetou/
 devurl: http://localhost:4000/
 name: UniFreak
 title: UniFreak | Another yet unique freak is showing a freakshow
 description: "Fanghao's personal weblog, on coding or such stuff"
 
 my:
-    displayName: UniFreak
-    realName: FangHao
-    realName_cn: 方浩
-    jobTitle: "PHP Coder"
+    displayName: UniMe
+    realName: Donald.Liu
+    realName_cn: 刘东钥
+    jobTitle: "Python Engineer"
     contact:
-        qq: 744910240
-        email: fanghao90s@gmail.com
+        qq: 283327832
+        email: mostof@126.com
         github: http://www.github.com/UniFreak
         qzone: http://744910240.qzone.qq.com
         pinterest: https://www.pinterest.com/miblah/
